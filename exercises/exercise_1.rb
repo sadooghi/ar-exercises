@@ -13,5 +13,3 @@ store3.save
 puts "there are #{Store.count} stores in DB"
 # end
 
-
-# Your code goes below here ...
