@@ -21,5 +21,3 @@ end
   puts "#{store.name} store has annual revenue of #{store.annual_revenue}"
 end
 
-# store7 = Store.create(name: "a", annual_revenue: 430000, mens_apparel: true, womens_apparel: true)
-# store7.save
